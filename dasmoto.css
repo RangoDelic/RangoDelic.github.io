@@ -1,0 +1,61 @@
+
+.title{
+    background-image: url(../resources/images/pattern.jpeg);
+    font-size: 100px;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    margin:67px 0px;
+}
+
+.sisa{
+    margin-left:auto;
+}
+
+.b1{
+    font-family: Helvetica;
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+    
+}
+
+.b2{
+    background-color: lightcoral;
+    font-family: Helvetica;
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+}
+
+.b3{
+    background-color: skyblue;
+    font-family: Helvetica;
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+}
+.h3{
+    font-family: Helvetica;
+    font-size: 26px;
+}
+
+.blue{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+    font-size: 20px;
+}
+
+.slike{
+    height: 350px;
+    width: 350px;
+    align-self: auto;
+}
+
+.para{
+    font-family: Helvetica;
+    font-size: 20px;
+}
